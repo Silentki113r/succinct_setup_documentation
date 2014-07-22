@@ -12,7 +12,7 @@ Requirements:
 
 -GitHub Account – www.github.com
 
--https://github.com/servalproject/batphone/blob/development/INSTALL.md ^^^ states 80 MB free space, this is only relevant to batphone, with the android SDK and NDK etc… its more around 10 GB.
+-https://github.com/servalproject/batphone/blob/development/INSTALL.md states 80 MB free space, this is only relevant to batphone, with the android SDK and NDK etc… its more around 10 GB.
 
 -Mac OSX 10.9 working, others not tested. (10.7 supported according to INSTALL.MD)
 Supposedly works on Linux, I did not test this.
