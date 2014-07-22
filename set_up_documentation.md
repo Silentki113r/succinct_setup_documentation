@@ -40,4 +40,21 @@ $ git submodule init
 $ git submodule update
 ````
 
+Obtaining version number:
+Change change to appropriate directory 'pathway/batphone'
+````
+$ git checkout master
+$ git submodule update
 
+````
+
+Tools required (download):
+
+JDK 1.6 - Obtained from promts (updates or Application telling you to download it + link or http://www.oracle.com/technetwork/java/javase/downloads/index.html
+Apache ANT - http://ant.apache.org/bindownload.cgi
+Panadoc - https://github.com/jgm/pandoc/releases
+SDK- https://developer.android.com/sdk/index.html
+NDK- http://developer.android.com/tools/sdk/ndk/index.html
+SDK platform package- Done from eclipse:
+  for those who dont know: From the application eclipse, go to the drop down menu 'Window' and open 'Android SDK          Manager'
+ 
