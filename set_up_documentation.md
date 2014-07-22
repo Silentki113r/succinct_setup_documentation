@@ -31,3 +31,13 @@ git clone https://github.com/servalproject/batphone.git
 ````
 ^^ For clone from master, if forked URL will be the path of batphone in your account.
 
+Once clone is complete the following commands:
+````
+$ cd batphone
+
+$ git submodule init
+
+$ git submodule update
+````
+
+
