@@ -64,3 +64,4 @@ SDK platform package- Done from eclipse:
   
   for those who dont know: From the application eclipse, go to the drop down menu 'Window' and open 'Android SDK          Manager'
  
+Creating an appropriate environment:
