@@ -6,7 +6,7 @@ Ongoing documentation of the set up of succinct
 Setting up a Succinct Data Build Environment for Developers
 =============================
 
-Batphone and succinct setup:
+Batphone and succinct setup (For OSX):
 =============================
 Requirements:
 
